@@ -1,6 +1,6 @@
 # 🌐 ONG Esperança Viva
 
-🔗 **Acesse o site aqui:** (https://m-pires11.github.io/ong.esperancaviva/)
+🔗 **Acesse o site aqui:** (https://m-pires11.github.io/ong-esperancaviva/)
 
 Este projeto foi desenvolvido como parte da disciplina de **Desenvolvimento Front-End**, com o objetivo de criar uma plataforma web completa para uma ONG fictícia — **ONG Esperança Viva**.  
 O site busca simular uma aplicação real voltada para o terceiro setor, apresentando informações institucionais, projetos sociais e um formulário de cadastro de voluntários.
